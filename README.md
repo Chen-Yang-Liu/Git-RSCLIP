@@ -1,8 +1,8 @@
 # Git-RSCLIP
 
-**Git-RSCLIP** is pre-trained on the Git-10M dataset (a global-scale remote sensing image-text pair dataset, consisting of **10 million image-text pairs**).
+**Git-RSCLIP** is pre-trained on the Git-10M dataset (a global-scale remote sensing image-text pair dataset, consisting of **10 million image-text pairs**), available at [Github](https://github.com/Chen-Yang-Liu/Text2Earth)
 
-The paper has been accepted by **IEEE Geoscience and Remote Sensing Magazine**: [IEEE](https://ieeexplore.ieee.org/document/10591792) | [ArXiv](https://arxiv.org/pdf/2501.00895)
+The paper has been published in **IEEE Geoscience and Remote Sensing Magazine**: [IEEE](https://ieeexplore.ieee.org/document/10591792) | [ArXiv](https://arxiv.org/pdf/2501.00895)
 
 
 ## Model DownLoad Link
