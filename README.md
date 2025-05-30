@@ -1,12 +1,18 @@
 # Git-RSCLIP
 
-[[Git-RSCLIP]](https://arxiv.org/pdf/2501.00895) is pre-trained on the Git-10M dataset (a global-scale remote sensing image-text pair dataset, consisting of 10 million image-text pairs) at size 256x256, first released in [this repository](https://github.com/chen-yang-liu/Text2Earth). It employs a similar structure to [[google/siglip-large-patch16-256](https://huggingface.co/google/siglip-large-patch16-256)]. 
+**Git-RSCLIP** is pre-trained on the Git-10M dataset (a global-scale remote sensing image-text pair dataset, consisting of **10 million image-text pairs**).
 
-This is a **large version**, the **base version** is here: [[**Git-RSCLIP-base**](https://huggingface.co/lcybuaa/Git-RSCLIP-base)]
+The paper has been accepted by **IEEE Geoscience and Remote Sensing Magazine**: [IEEE](https://ieeexplore.ieee.org/document/10591792) | [ArXiv](https://arxiv.org/pdf/2501.00895)
+
+
+## Model DownLoad Link
+- **Large version**:[[🤗 Huggingface](https://huggingface.co/lcybuaa/Git-RSCLIP) | [🌊 Modelscope](https://modelscope.cn/models/lcybuaa1111/Git-RSCLIP)]
+
+- **Base version**: [[🤗 Huggingface](https://huggingface.co/lcybuaa/Git-RSCLIP-base) | [🌊 Modelscope](https://modelscope.cn/models/lcybuaa1111/Git-RSCLIP-base)]
 
 ## Intended uses & limitations
 
-You can use the raw model for tasks like zero-shot image classification and image-text retrieval.
+You can use the raw model for tasks like zero-shot image classification and text-image retrieval.
 
 
 ### How to use
