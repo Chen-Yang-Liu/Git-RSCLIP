@@ -4,6 +4,8 @@
 
 The paper has been published in **IEEE Geoscience and Remote Sensing Magazine**: [IEEE](https://ieeexplore.ieee.org/document/10591792) | [ArXiv](https://arxiv.org/pdf/2501.00895)
 
+## News 🔥
+**Git-RSCLIP** Model downloads exceeded **60,000** times 🔥
 
 ## Model DownLoad Link
 - **Large version**:[[🤗 Huggingface](https://huggingface.co/lcybuaa/Git-RSCLIP) | [🌊 Modelscope](https://modelscope.cn/models/lcybuaa1111/Git-RSCLIP)]
